@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sshPublicKeys_ch02_key2_name": {
+            "value": null
+        },
+        "virtualMachines_vm_web_sm_name": {
+            "value": null
+        },
+        "virtualMachines_vm_data_sm_name": {
+            "value": null
+        },
+        "networkInterfaces_nic_web_sm_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_core_sm_name": {
+            "value": null
+        },
+        "storageAccounts_stch02logssm_name": {
+            "value": null
+        },
+        "networkInterfaces_nic_data_sm_name": {
+            "value": null
+        },
+        "storageAccounts_ch02smstorage_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_web_sm_name": {
+            "value": null
+        },
+        "applicationSecurityGroups_asg_web_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_data_sm_name": {
+            "value": null
+        },
+        "workspaces_la_ch02_sm_name": {
+            "value": null
+        },
+        "applicationSecurityGroups_asg_data_name": {
+            "value": null
+        },
+        "applicationSecurityGroups_asg_mgmt_name": {
+            "value": null
+        },
+        "dataCollectionEndpoints_NWTA_384f6a5e_30e7_4635_86d7_2f59efLV4SQI_name": {
+            "value": null
+        },
+        "dataCollectionRules_NWTA_384f6a5e_30e7_4635_86d7_2f59eff4f3ddUO7O7E_name": {
+            "value": null
+        }
+    }
+}
